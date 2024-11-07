@@ -22,6 +22,7 @@
                     dtype: List(Int8),
                 ),
             ]),
+            "length": 12,
             "values": [
                 {
                     "name": "Label",
