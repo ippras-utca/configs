@@ -1,7 +1,6 @@
-= $FFA$
+= $TAG 3$
 
 |===
-|14:0        |Methyl tetradecanoate                                |22.047|158879.309  |0.178
 |16:0        |Hexadecanoic acid, methyl ester                      |24.745|44787902.719|50.043
 |18:0        |Methyl stearate                                      |27.784|5293086.570 |5.914
 |18:1-9      |9-Octadecenoic acid (Z)-, methyl ester               |28.504|16002702.583|17.880
@@ -11,6 +10,7 @@
 |18:3-9,12,15|9,12,15-Octadecatrienoic acid, methyl ester, (Z,Z,Z)-|30.832|3079559.720 |3.441
 |20:1-9      |Methyl 9-eicosenoate                                 |31.109|550935.042  |0.616
 |22:0        |Docosanoic acid, methyl ester                        |32.835|1865383.194 |2.084
+|===
 |22:1-13     |                                                     |      |            |
 |24:0        |Tetracosanoic acid, methyl ester                     |34.883|108539.152  |0.121
-|===
+|14:0        |Methyl tetradecanoate                                |22.047|158879.309  |0.178
